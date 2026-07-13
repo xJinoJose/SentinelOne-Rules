@@ -1,8 +1,8 @@
 # Remote Access Tool Detection - TeamViewer
 
-Severity: Medium
-MITRE ATT&CK: T1219 (Remote Access Software)
-Owner: Jino
+**Severity:** Medium\
+**MITRE ATT&CK:** T1219 (Remote Access Software)\
+**Owner:** Jino
 
 ## Description
 

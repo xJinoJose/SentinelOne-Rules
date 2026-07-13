@@ -1,8 +1,8 @@
 # Remote Access Tool Detection - RemotePC
 
-Severity: Medium
-MITRE ATT&CK: T1219 (Remote Access Software)
-Owner: Jino
+**Severity:** Medium\
+**MITRE ATT&CK:** T1219 (Remote Access Software)\
+**Owner:** Jino
 
 ## Description
 

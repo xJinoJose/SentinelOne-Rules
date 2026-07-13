@@ -1,8 +1,8 @@
 # Remote Access Tool Detection - RustDesk
 
-Severity: High
-MITRE ATT&CK: T1219 (Remote Access Software)
-Owner: Jino
+**Severity:** High\
+**MITRE ATT&CK:** T1219 (Remote Access Software)\
+**Owner:** Jino
 
 ## Description
 
