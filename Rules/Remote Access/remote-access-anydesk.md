@@ -1,8 +1,7 @@
 # Remote Access Tool Detection - AnyDesk
 
-Severity: Medium
-
-MITRE ATT&CK: T1219 (Remote Access Software)
+Severity: Medium\
+MITRE ATT&CK: T1219 (Remote Access Software)\
 Owner: Jino
 
 ## Description
