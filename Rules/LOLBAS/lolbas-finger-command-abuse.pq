@@ -1,0 +1,1 @@
+| filter tgt.process.name = 'finger.exe'
